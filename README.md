@@ -3,7 +3,7 @@ During the training course iOS 13 & Swift 5 - The completed App Bootcamp by AppB
 
 
 
-![tipApp](https://user-images.githubusercontent.com/55871427/86794273-fbb67700-c074-11ea-8a8c-2b21b2d4342e.PNG)
+
 
 
 
